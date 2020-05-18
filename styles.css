@@ -31,3 +31,7 @@ body{
 .right{
     border-left: 1px black solid
 }
+
+#reset-button {
+    display: none;
+}
